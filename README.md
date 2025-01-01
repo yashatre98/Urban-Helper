@@ -57,3 +57,9 @@ The project also integrates **performance monitoring** using `web-vitals` and lo
   - **`SpectrumConverter.test.jsx`** tests the behavior of the Spectrum-based component.
 - **Automation:**
   - Tests are executed using **Jest** and **React Testing Library**.
+
+demo_gif
+![demo_gif](https://github.com/user-attachments/assets/13b73eba-5787-4542-84f1-6c1a3ef7a6df)
+
+
+
