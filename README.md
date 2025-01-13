@@ -61,5 +61,6 @@ The project also integrates **performance monitoring** using `web-vitals` and lo
 demo_gif
 ![demo_gif](https://github.com/user-attachments/assets/13b73eba-5787-4542-84f1-6c1a3ef7a6df)
 
-
+test_coverage
+![Code Coverage](https://github.com/user-attachments/assets/dfe22890-55b6-44d7-83bb-b2b8993b5258)
 
